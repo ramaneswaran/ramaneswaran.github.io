@@ -5,7 +5,7 @@ permalink: /about/
 order: 1
 ---
 
-I am currently a Research Scientist in Google (since August 2023), where I am working in the [Bard](https://bard.google.com/) team. Our team works on improving model quality, factuality, and evaluation of Bard.
+<!-- I am currently a Research Scientist in Google (since August 2023), where I am working in the [Bard](https://bard.google.com/) team. Our team works on improving model quality, factuality, and evaluation of Bard.
 
 I recently finished my PhD at [University of Massachusetts Amherst](http://cs.umass.edu/) in the College for Information and Computer Science. I was fortunate to be advised by [Prof. Mohit Iyyer](https://people.cs.umass.edu/~miyyer/) and worked on exciting problems in long-form text generation. I used to co-organize the [Machine Learning and Friends Lunch](https://umass-mlfl.github.io/) at UMass Amherst (Fall 2019 - Spring 2022). I graduated with a Bachelors in Electrical Engineering at [IIT Bombay](http://iitb.ac.in) in 2018. I was a part of the [CSALT](https://www.cse.iitb.ac.in/~pjyothi/csalt/) group and was advised by [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/), working on problems in language modeling and sentiment classification.
 
@@ -14,4 +14,6 @@ In Summer 2017, I worked on end-to-end speech recognition at [TTIC](http://ttic.
 
 When I'm not working, I am generally [birding]({ site.url }}/birding), hiking, biking reading or star gazing. I like to [blog]({{ site.url }}/archive.html) and have written a few articles compiling my experiences with graduate school admissions, visa applications, biking etc. During my undergraduate days, I used to lead a club at IIT Bombay, namely [The Web and Coding Club](https://www.facebook.com/wncc.iitb/), where we help people get started with code. I also used to actively contribute to [StackOverflow](http://stackoverflow.com/users/5080995/martianwars) and to our club's [wiki](http://wncc-iitb.org/wiki), a beginner's programming guide. Finally, I [collect]({{ site.url }}/assets/rubik.jpg) Rubiks puzzles! Unfortunately, I am not good at solving them!
 
-Some people on the internet (especially on Mozilla's IRC) know me as *martianwars*.
+Some people on the internet (especially on Mozilla's IRC) know me as *martianwars*. -->
+
+Need to fill this

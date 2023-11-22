@@ -7,15 +7,17 @@ order: 6
 
 Outlining my non-published projects here (open source contributions, course research projects, designed homeworks). My research work can be seen [here](/research/).
 
-#### **Other Research (Course Projects)**
+#### **Open-Source Projects**
 
-[Self-supervised Learning on 3D Point Clouds](https://github.com/martiansideofthemoon/pointnet-acd-deformations): New algorithms for self-supervised learning on point clouds, where we teach models to discriminate between real and fake objects. To create fake objects, we perform global perturbations to segments of an object derived from [Approximate Convex Decomposition](https://arxiv.org/abs/2003.13834) ([report]({{ site.url }}/assets/point_cloud_discriminate.pdf)).
+[Argos](https://github.com/GDGVIT/Priority-Msg-Bot): Highly optimized (< 100ms latency) ML-powered Telegram bot to prevent notification pollution.
 
-[MixMatch on Vision + Language Tasks (NLVR2)](https://github.com/martiansideofthemoon/mixmatch-lxmert): An attempt to integrate the [MixMatch](https://arxiv.org/abs/1905.02249) data augmentation algorithm for semi-supervised image classification to the challenging setting of [NLVR2](http://lil.nlp.cornell.edu/nlvr), where the input space has both images and text ([report](https://sumanvid97.github.io/docs/cv_report.pdf)).
+[Quicktext](https://github.com/GDGVIT/quicktext): An extremely quick (< 7 LOC) library to train text classification models; built on top of sPacy.
 
-[Research Exchange - A Collaborative Paper Annotation Tool](https://github.com/martiansideofthemoon/research-exchange) - A platform to collaboratively annotate scientific literature to help newcomers understand research papers, built during an Human Computer Interaction course project ([report]({{ site.url }}/assets/research-exchange.pdf)).
+[Picturate](https://github.com/picturate/picturate) - A foundry offering modular and extensible components for building GAN based text-to-image models.
 
-[Inference Networks for Structured Prediction](https://github.com/TheShadow29/infnet-spen) - A TensorFlow implementation for the multi-label classification experiments in [Learning Approximate Inference Networks for Structured Prediction](https://arxiv.org/abs/1803.03376). Also contains experiments on the [FIGMENT](http://cistern.cis.lmu.de/figment/) dataset and a extension to Inference Network training algorithm based on [Wasserstein GANs](https://arxiv.org/abs/1704.00028) ([report](https://people.cs.umass.edu/~kalpesh/infnet.pdf)).
+[Perception](https://github.com/ramaneswaran/perception) - A comprehensive reference implementation for large-scale unsupervised image search.
+
+<!-- [Inference Networks for Structured Prediction](https://github.com/TheShadow29/infnet-spen) - A TensorFlow implementation for the multi-label classification experiments in [Learning Approximate Inference Networks for Structured Prediction](https://arxiv.org/abs/1803.03376). Also contains experiments on the [FIGMENT](http://cistern.cis.lmu.de/figment/) dataset and a extension to Inference Network training algorithm based on [Wasserstein GANs](https://arxiv.org/abs/1704.00028) ([report](https://people.cs.umass.edu/~kalpesh/infnet.pdf)).
 
 [Diversity Sampling in Machine Learning](http://github.com/martiansideofthemoon/diversity-sampling) - An implementation of [Diverse Beam Search for Neural Networks](https://arxiv.org/abs/1610.02424) in Language Modelling. Also contains the original (slightly modified code) for the interactive segmentation experiments in [Diverse M-Best Solutions in MRFs](http://ttic.uchicago.edu/~gregory/papers/MBestModes.pdf) ([report](https://people.cs.umass.edu/~kalpesh/diversity.pdf)).
 
@@ -27,9 +29,9 @@ Outlining my non-published projects here (open source contributions, course rese
 
 [Brittle Fracture Simulation](https://github.com/martiansideofthemoon/brittle-fracture-simulation) - Python implementation of O'Brien and Hodgins 1999, "[Graphical Modeling and Animation of Brittle Fracture](http://graphics.berkeley.edu/papers/Obrien-GMA-1999-08/Obrien-GMA-1999-08.pdf)".  
 
-[ECG Signal Analysis](https://github.com/martiansideofthemoon/ecg-analysis) - Python implementation of parts of Christopher Buck, Aneesh Sampath 2013, “[ECG Signal Analysis for Myocardial Infarction Detection.](https://cnx.org/contents/VZtarYnV@2.1:WO1d4SJW@1/Introduction)”.  
+[ECG Signal Analysis](https://github.com/martiansideofthemoon/ecg-analysis) - Python implementation of parts of Christopher Buck, Aneesh Sampath 2013, “[ECG Signal Analysis for Myocardial Infarction Detection.](https://cnx.org/contents/VZtarYnV@2.1:WO1d4SJW@1/Introduction)”.   -->
 
-#### **Course Materials**
+<!-- #### **Course Materials**
 
 [Homework](https://github.com/martiansideofthemoon/allennlp-probe-hw) on linguistic probe tasks designed for UMass Amherst's grad NLP class using [AllenNLP](https://allennlp.org/).
 
@@ -56,4 +58,4 @@ All these datasets are compatible with [SRILM](http://www.speech.sri.com/project
 ### **Alternate PDF versions of papers**
 
 RELiC paper: [paper](https://martiansideofthemoon.github.io/assets/relic_paper_gse.pdf)  
-RankGen paper: [paper](https://martiansideofthemoon.github.io/assets/rankgen_paper_gse.pdf)  
+RankGen paper: [paper](https://martiansideofthemoon.github.io/assets/rankgen_paper_gse.pdf)   -->
