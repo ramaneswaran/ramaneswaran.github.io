@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-permalink: /assets/cv.pdf
+permalink: /assets/resources/cv_ramaneswaran.pdf
 order: 4
 ---
 
