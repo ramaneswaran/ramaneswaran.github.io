@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-order: 5
+order: 3
 ---
 I am broadly interested in Natural Language Processing and Multimodality.
 

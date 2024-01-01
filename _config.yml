@@ -19,7 +19,7 @@ linkedin_username: ramaneswaran
 stackoverflow: 12242652/ramaneswaran
 include: ['_pages']
 footer-links-active:
-  stackoverflow: true
+  stackoverflow: false
 
 # Build settings
 markdown: kramdown

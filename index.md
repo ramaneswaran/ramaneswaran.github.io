@@ -7,8 +7,6 @@ layout: page
 
 Hey there! My name is Raman and I currently work at NVIDIA as a Data Scientist where I help customers build and deploy machine learning solutions.
 
-These days I am working on 
-
 I was fortunate to intern at [LCS2](https://www.lcs2.in/) mentored by [Prof. Shad Akhtar](https://iiitd.ac.in/shad) and [Prof. Tanmoy Chakraborty](https://www.tanmoychak.com/) where I worked on multimodality and conversational dialogs. I completed by Bachelor's thesis under the mentorship of Dr. Vikram Jamwal at [TCS Research](https://www.tcs.com/what-we-do/research).
 
 Apart from these, I've done some fun internships at [Flipkart](https://www.flipkart.com/) (Summer 2021), [Samsung Research India](https://research.samsung.com/sri-b) (Winter 2020) and [Omdena](https://omdena.com) (Fall 2020).
