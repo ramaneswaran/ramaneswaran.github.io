@@ -5,7 +5,9 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/images/me_harsil.jpg">
 
-Hey there! My name is Raman and I currently work at NVIDIA as a Data Scientist where I help customers build and deploy machine learning solutions.
+Hey there! My name is Raman and I am currently a masters student at Univ. Maryland, College Park. 
+
+Previously I worked as a Data Scientist at NVIDIA where I helped customers build and deploy LLM solutions. 
 
 I was fortunate to intern at [LCS2](https://www.lcs2.in/) mentored by [Prof. Shad Akhtar](https://iiitd.ac.in/shad) and [Prof. Tanmoy Chakraborty](https://www.tanmoychak.com/) where I worked on multimodality and conversational dialogs. I completed by Bachelor's thesis under the mentorship of Dr. Vikram Jamwal at [TCS Research](https://www.tcs.com/what-we-do/research).
 
@@ -22,6 +24,8 @@ Email ID: [s.ramaneswaran2000@gmail.com](mailto:s.ramaneswaran2000@gmail.com)
 <table>
 <col width="100px">
 <col width="650px">
+  <tr><td><b>August 2024:</b></td><td>Starting as a masters student at Univ Maryland, College Park</td></tr>
+  <tr><td><b>May 2024:</b></td><td>Our work on investigating the limitations of instruction tuning accepted at ICML 2024</td></tr>
   <tr><td><b>Nov 2023:</b></td><td>Work on controllable image generation finally accepted at WACV 2024</td></tr>
   <tr><td><b>Nov 2023:</b></td><td>Work on code-mixed emotion recognition accepted in EMNLP 2024</td></tr>
   <tr><td><b>Jul 2023:</b></td><td>Work on multimodal meme contextualization to appear at ACL 2023</td></tr>
