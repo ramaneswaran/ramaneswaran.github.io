@@ -4,11 +4,25 @@ title: Research
 permalink: /research/
 order: 3
 ---
-I am broadly interested in Natural Language Processing and Multimodality.
+I am broadly interested in Natural Language Processing
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&pli=1&authuser=1&user=YIhHxbwAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/S.-Ramaneswaram/2218454024)
 
+### Pre-prints
+
+* [Do Audio-Language Models Understand Linguistic Variations?](https://drive.google.com/file/d/1A-Je6qPzcH5XB1EHzxtwqOyKvrC5hysR/view)  
+Ramaneswaran S*, Sonal Kumar*, Hemant Giri*, Nishit Anand, Ashish Seth, Sreyan Ghosh, Dinesh Manocha
+
+* [PAT: Parameter-Free Audio-Text Aligner to Boost Zero-Shot Audio Classification](https://drive.google.com/file/d/1QyNx_nWPSuaP032FUuAjMTq42mfmzP2I/view)  
+Ashish Seth*, Ramaneswaran S*, Sonal Kumar*, Sreyan Ghosh, Dinesh Manocha
+
 ### Research Papers
+
+* [EH-MAM: Easy-to-Hard Masked Acoustic Modeling for Self-Supervised Speech Representation Learning](https://arxiv.org/abs/2410.13179)  
+Ashish Seth*, Ramaneswaran S*, S Sakshi, Sonal Kumar, Sreyan Ghosh, Dinesh Manocha
+**EMNLP 2024**    
+[data + code](https://github.com/cs20s030/ehmam)
+
 
 * [MEMEX: Detecting Explanatory Evidence for Memes via Knowledge-Enriched Contextualization](https://aclanthology.org/2023.acl-long.289/)  
 Shivam Sharma, Ramaneswaran S, Udit Arora,  Md. Shad Akhtar, Tanmoy Chakraborty  
@@ -18,6 +32,7 @@ Shivam Sharma, Ramaneswaran S, Udit Arora,  Md. Shad Akhtar, Tanmoy Chakraborty
 * [From Multilingual Complexity to Emotional Clarity: Leveraging Commonsense to Unveil Emotions in Code-Mixed Dialogues](https://arxiv.org/abs/2203.16794)  
 Shivani Kumar, Ramaneswaran S, Md. Shad Akhtar, Tanmoy Chakraborty
 **EMNLP 2023**    
+[data + code](https://github.com/LCS2-IIITD/EMNLP-COFFEE)
 
 * [MMER: Multimodal Multi-task Learning for Speech Emotion Recognition](https://arxiv.org/abs/2203.16794)  
 Sreyan Ghosh, Utkarsh Tyagi, Ramaneswaran S, Harshvardhan Srivastava, Dinesh Manocha
@@ -27,6 +42,7 @@ Sreyan Ghosh, Utkarsh Tyagi, Ramaneswaran S, Harshvardhan Srivastava, Dinesh Man
 * [Composite Diffusion: whole $\geq \sum$ parts](https://arxiv.org/abs/2307.13720)  
 *Vikram Jamwal, Ramaneswaran S 
 **WACV 2024**  
+
 
 * [DALE: Generative Data Augmentation for Low-Resource Legal NLP](https://arxiv.org/abs/2310.15799)  
 Sreyan Ghosh, Chandra Kiran Evuru, Sonal Kumar, S Ramaneswaran, S Sakshi, Utkarsh Tyagi, Dinesh Manocha
