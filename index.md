@@ -24,8 +24,8 @@ Email ID: [s.ramaneswaran2000@gmail.com](mailto:s.ramaneswaran2000@gmail.com)
 <table>
 <col width="100px">
 <col width="650px">
-  <tr><td><b>August 2024:</b></td><td>Work on SSL for speech representations accepted at EMNLP 2024</td></tr>
-  <tr><td><b>August 2024:</b></td><td>Starting as a masters student at Univ Maryland, College Park</td></tr>
+  <tr><td><b>Aug 2024:</b></td><td>Work on SSL for speech representations accepted at EMNLP 2024</td></tr>
+  <tr><td><b>Aug 2024:</b></td><td>Starting as a masters student at Univ Maryland, College Park</td></tr>
   <tr><td><b>May 2024:</b></td><td>Our work on investigating the limitations of instruction tuning accepted at ICML 2024</td></tr>
   <tr><td><b>Nov 2023:</b></td><td>Work on controllable image generation finally accepted at WACV 2024</td></tr>
   <tr><td><b>Nov 2023:</b></td><td>Work on code-mixed emotion recognition accepted in EMNLP 2024</td></tr>
