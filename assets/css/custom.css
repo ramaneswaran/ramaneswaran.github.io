@@ -1,0 +1,173 @@
+/* Base */
+body {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  color: #111;
+  line-height: 1.6;
+}
+
+
+/* Page width */
+.page-wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px 20px;
+}
+
+.site-title {
+  font-size: 2.6rem;
+  font-weight: 400;
+  margin-bottom: 2px;
+}
+
+.email {
+  font-size: 0.9rem;
+  color: #000;
+  margin-bottom: 10px; /* see spacing note below */
+}
+
+
+
+
+.header {
+  text-align: left;
+}
+
+.header-center {
+  text-align: center;
+}
+
+.rule-narrow {
+  max-width: 900px;   /* match .page-wrapper width */
+  margin: 0 auto;
+}
+
+.nav-rule.tight {
+  margin: 12px 0 6px 0;
+}
+
+.nav-bar {
+  margin: 4px 0;
+}
+
+.nav-bar a,
+.nav-bar .sep {
+  padding: 0 4px;
+}
+
+.nav-bar .sep {
+  color: #000;
+}
+
+.nav-bar a:hover {
+  text-decoration: underline;
+}
+
+/* HR styling */
+.nav-rule {
+  border: none;
+  border-top: 1px solid #333;
+  opacity: 0.9;
+  margin: 6px 0;
+}
+
+
+/* Content */
+.content {
+  margin-top: 45px;
+}
+
+.profile {
+  font-size: 0.95rem;
+}
+
+.profile-photo {
+  width: 60%;
+  max-width: 200px;   /* ← change this number */
+  height: auto;
+}
+
+
+.profile-title {
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.text-block p {
+  text-align: justify;
+  line-height: 1.6;
+  margin-bottom: 1em;
+}
+
+/* Links */
+.links a {
+  color: #0d6efd;
+  text-decoration: none;
+}
+
+.links a:hover {
+  text-decoration: underline;
+}
+
+h5 {
+  margin-top: 30px;
+}
+
+.site-footer {
+  margin-top: 60px;
+  text-align: center;
+}
+
+.footer-rule {
+  border: none;
+  border-top: 1px solid #000;
+  margin: 0 0 18px 0;
+  opacity: 1;
+}
+
+.footer-text {
+  font-size: 0.85rem;
+  line-height: 1.4;
+  color: #000;
+}
+
+.footer-text a {
+  color: #0b5ed7;
+  text-decoration: none;
+}
+
+.footer-text a:hover {
+  text-decoration: underline;
+}
+
+/* Section heading */
+.section-heading {
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin-bottom: 18px;
+}
+
+/* Publication list */
+.pub-list {
+  list-style-type: disc;
+  padding-left: 1.2em;
+}
+
+.pub-item {
+  margin-bottom: 18px;
+}
+
+/* Paper title link */
+.pub-title {
+  color: #0b5ed7;
+  text-decoration: none;
+}
+
+.pub-title:hover {
+  text-decoration: underline;
+}
+
+/* Venue line */
+.pub-venue {
+  display: inline-block;
+  margin-top: 2px;
+}
